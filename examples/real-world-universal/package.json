@@ -15,6 +15,7 @@
   },
   "homepage": "http://yelouafi.github.io/redux-saga/",
   "dependencies": {
+    "babel-register": "^6.7.2",
     "humps": "^0.6.0",
     "isomorphic-fetch": "^2.1.1",
     "lodash": "^4.5.0",
